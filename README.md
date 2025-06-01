@@ -20,7 +20,7 @@ All other files (images, `word.py`, etc.) are already included in this repositor
 ---
 ## 🖥️ How to Run
 ```bash
-git clone <repository_url>
+git clone https://github.com/weiouo-0817/oop-2025-proj-wordle.git
 ```
 ```bash
 cd oop-2025-proj-wordle
